@@ -9,6 +9,8 @@ This sample is stripped out from [Jim Awe's](https://www.linkedin.com/in/jim-awe
 
 ## Working Demo
 
+![WorkingDemo](https://github.com/MadhukarMoogala/adn_adskLogo/blob/master/media/demo.gif)
+
 ## Prerequisite
 - ObjectARX 2019 SDK
 - Visual Studio 2017 Professional or Community
